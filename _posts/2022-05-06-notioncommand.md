@@ -1,7 +1,7 @@
 ---
 title: Notion Command
 layout: post
-post-image: "https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/pages/product/hero.png"
+post-image: "https://media.giphy.com/media/n9UHUM7v83SScYODjK/giphy.gif"
 description: Some sorts of Powerful ShortCut Key When You Try to Handling Notion
   headlines, quotes and codes will be represented.
 tags:
