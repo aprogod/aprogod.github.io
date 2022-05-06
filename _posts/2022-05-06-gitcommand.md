@@ -22,7 +22,7 @@ categories: github
 
 내용 설명
 
-<새로운 저장소 생성>
+<새로운 저장소>
 
 **$ git init**
 
