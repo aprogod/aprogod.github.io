@@ -7,7 +7,7 @@ categories: github
 
 # 1. git 명령어 모음
 
-![testimage](C:\Users\kht91\Desktop\유비온\aprogod.github.io\2022-05-06 110940.png)
+![testimage](./2022-05-06 110940.png)
   ### **Git 설치 (for ubuntu)
 
 1) 터미널 (ctrl + Alt + T)  
