@@ -7,7 +7,7 @@ categories: github
 
 # 1. git 명령어 모음
 
-![testimage](./2022-05-06ff.png)
+![2022-05-06ff](https://user-images.githubusercontent.com/100403424/167056970-5bdc0377-3dff-47c2-9fbc-7172e9299499.png)
   ### **Git 설치 (for ubuntu)
 
 1) 터미널 (ctrl + Alt + T)  
@@ -46,7 +46,6 @@ categories: github
 <추가 및 확정(commit)>
 
 **$ git add <파일명>**  
-**$ git add ***
 
 커밋에 단일 파일의 변경 사항을 포함  
 (인덱스에 추가된 상태)
