@@ -1,8 +1,13 @@
-﻿---
+---
+title: Notion Command
 layout: post
-title:  "Notion Command"
-date:   2022-05-06 10:27:42 +0900
-categories: Notion
+post-image: "https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/pages/product/hero.png"
+description: Some sorts of Powerful ShortCut Key When You Try to Handling Notion
+  headlines, quotes and codes will be represented.
+tags:
+- notion
+- shortcut
+- convenience
 ---
 
 **Notion은 키보드와 마크다운에 대한 단축키를 완벽하게 갖추고 있습니다. 여러분이 원하는 기능을 마우스 클릭 없이 사용하실 수 있습니다! 🐭**
@@ -47,3 +52,9 @@ Notion은 마크다운 문법을 지원합니다. 마크다운 문법에 대한 
 -   `###`  를 입력하고  `space`  입력하면 H3 형식의 글을 입력할 수 있습니다.
 -   `>`  를 입력하고  `space`  입력하면 토글 형태의 블록을 만들 수 있습니다.
 -   `"`  입력하고  `space`  입력하면 인용문을 만들 수 있습니다.
+
+**Giphy Gifs will look like:**<br>
+<iframe src="https://giphy.com/embed/MHboUUIoxzOKs" width="339" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-eyes-feast-MHboUUIoxzOKs">via GIPHY</a></p>
+
+<!-- **YouTUbe Videos will look like:**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
